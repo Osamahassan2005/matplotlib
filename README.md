@@ -1,5 +1,5 @@
 
-**Combining Physics with Programming: My Applied Physics CEP and Current Project**  
+**Combining Physics with Programming: My Applied Physics CEP**  
 
 **Project Highlights**  
 - Experiment Design: Measured light decay from an LED bulb, candle, and smartphone flashlight to validate the Inverse Square Law  
